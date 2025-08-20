@@ -47,6 +47,18 @@ Here are some of my major works that reflect my passion for analytics, web devel
 
 ---
 
+### 🆕 Recently Uploaded Projects
+
+<p align="center">
+  <!-- Automatically updates with your 4 most recent repos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anchalshukla145&repo=Movie-Recommender-System-Using-Machine-Learning-master&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anchalshukla145&repo=SmartParkingWebsite&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anchalshukla145&repo=Swachh-Sakkhi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anchalshukla145&repo=Air-quality-index-Dashboard&theme=radical" />
+</p>
+
+---
+
 ### 📈 GitHub Insights
 
 <p align="center">
@@ -68,4 +80,3 @@ Here are some of my major works that reflect my passion for analytics, web devel
 ---
 
 > _"The goal is to turn data into information, and information into insight."_ — Carly Fiorina
-
