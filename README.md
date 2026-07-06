@@ -1,25 +1,35 @@
 <div align="center">
-  <!-- Adaptive Light Pink Banner -->
+  <!-- Moving Neon Matrix/Sunny Wave Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:2a1b3d,50:d8a7b8,100:9f7a9c&height=240&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=ffffff&animation=blinking&desc=%3E%20data.scientist()%20%7C%20ai.engineer()%20%7C%20builder()&descAlignY=65&descSize=15&fontAlignY=36">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4e8,50:ffc1d0,100:ffb6c1&height=240&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=5c2a3a&animation=blinking&desc=%3E%20data.scientist()%20%7C%20ai.engineer()%20%7C%20builder()&descAlignY=65&descSize=15&fontAlignY=36">
-    <img alt="Light Pink Wave Banner" src="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4e8,50:ffc1d0,100:ffb6c1&height=240&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=5c2a3a">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=00ff9d&animation=fadeIn&desc=%3E%20data.scientist()%20%7C%20ai.engineer()%20%7C%20builder()&descAlignY=65&descSize=15&fontAlignY=35">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=200&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=1a1a1a&animation=fadeIn&desc=%3E%20data.scientist()%20%7C%20ai.engineer()%20%7C%20builder()&descAlignY=65&descSize=15&fontAlignY=35">
+    <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=ANCHAL%20SHUKLA&fontSize=40&fontColor=00ff9d">
   </picture>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=5c2a3a&labelColor=ffe4e8"/>
     <img src="https://komarev.com/ghpvc/?username=Anchalshukla145&label=PROFILE%20VIEWS&color=ffb6c1&style=for-the-badge&labelColor=ffe4e8"/>
   </p>
-
-  <!-- Cute Female Coder Icon -->
-  <img src="https://raw.githubusercontent.com/Anchalshukla145/Anchalshukla145/main/assets/female-coder.png" width="120" height="120" alt="Cute Female Coder">
-  <h3>👩‍💻 Aspiring Data Scientist | AI Enthusiast | Software Developer</h3>
 </div>
+
+<!-- Left Details & Right Icon Alignment Section -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="left" valign="middle" style="border: none; width: 70%;">
+      <h1>👩‍💻 Anchal Shukla</h1>
+      <h3>Aspiring Data Scientist | AI Enthusiast | Software Developer</h3>
+      <p>Turning raw data into intelligent, real-world systems.</p>
+    </td>
+    <td align="right" valign="middle" style="border: none; width: 30%;">
+      <img src="cutecoder.jpg" width="140" height="140" alt="Cute Female Coder" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👋 About Me
-Hi! I'm **Anchal Shukla**, an aspiring **Data Scientist and AI Engineer** passionate about building intelligent systems using **Machine Learning, Data Analytics, Big Data, and Generative AI**. 
+Hi! I'm **Anchal Shukla**, an aspiring **Data Scientist and AI Engineer** passionate about building intelligent systems using **Machine Learning, Data Analytics, Big Data, and Generative AI**.
 
 I enjoy transforming raw data into meaningful insights, developing AI-powered applications, and solving real-world problems through technology.
 
@@ -112,13 +122,12 @@ I enjoy transforming raw data into meaningful insights, developing AI-powered ap
 <div align="center">
   <strong>⭐ Thank you for visiting! Don't forget to star my repositories if you find them helpful.</strong>
   <br/><br/>
-
-  <!-- Soft Pink Footer Wave -->
+  
+> **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
+  <!-- Moving Footer Wave Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:2a1b3d,50:d8a7b8,100:9f7a9c&height=90&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4e8,50:ffc1d0,100:ffb6c1&height=90&section=footer">
-    <img alt="Soft Footer Wave" src="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4e8,50:ffc1d0,100:ffb6c1&height=90&section=footer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=100&section=footer">
+    <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=100&section=footer">
   </picture>
 </div>
-
-> **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
